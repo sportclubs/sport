@@ -25,4 +25,7 @@ $router->run();
 */
 $router->Report();
 $router->ExecNewFunc();
+if ($a == 1){
+	echo "Yes, correct";
+}
 $router->ExitFunc();
