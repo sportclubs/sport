@@ -29,3 +29,11 @@ if ($a == 1){
 	echo "Yes, correct";
 }
 $router->ExitFunc();
+
+echo '
+		<a class="nav__item" href="/catalog/pereplyot/"> Переплет </a>
+		<a class="nav__item" href="/catalog/laminirovanie/"> Персонализация </a>
+		<a class="nav__item" href="/catalog/personalizaciya/"> Ламинация </a>
+		<a class="nav__item" href="/catalog/prochee/"> Прочее </a>
+		
+';
