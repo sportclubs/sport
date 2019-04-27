@@ -19,3 +19,7 @@ session_start();
 
 $router = new Router();
 $router->run();
+
+/*
+		New fixes in fix branch
+*/
