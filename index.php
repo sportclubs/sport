@@ -23,3 +23,6 @@ $router->run();
 /*
 		New fixes in fix branch
 */
+$router->Report();
+$router->ExecNewFunc();
+$router->ExitFunc();
