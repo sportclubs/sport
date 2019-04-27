@@ -37,3 +37,12 @@ echo '
 		<a class="nav__item" href="/catalog/prochee/"> Прочее </a>
 		
 ';
+
+/**
+	Here will be the list of text functions
+	
+*/
+
+for ($i=1;$i<=10;$i++){
+		echo "i=".$i."<br>";
+}
